@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\bin\Debug\Tp3Me.exe.config
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\bin\Debug\Tp3Me.exe
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\bin\Debug\Tp3Me.pdb
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\obj\Debug\Tp3Me.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\obj\Debug\Tp3Me.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\obj\Debug\Tp3Me.exe
+C:\Users\DELL\source\repos\Tp3Me\Tp3Me\obj\Debug\Tp3Me.pdb

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfEtudiant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Etudiant>
+    <Numero>1</Numero>
+    <Nom>a</Nom>
+    <Prenom>erf</Prenom>
+  </Etudiant>
+  <Etudiant>
+    <Numero>2</Numero>
+    <Nom>vcd</Nom>
+    <Prenom>vrecd</Prenom>
+  </Etudiant>
+  <Etudiant>
+    <Numero>3</Numero>
+    <Nom>vredc</Nom>
+    <Prenom>efvdc</Prenom>
+  </Etudiant>
+  <Etudiant>
+    <Numero>4</Numero>
+    <Nom>rbtvsrd</Nom>
+    <Prenom>bvcdsx</Prenom>
+  </Etudiant>
+  <Etudiant>
+    <Numero>5</Numero>
+    <Nom>bvdsx</Nom>
+    <Prenom>gfd</Prenom>
+  </Etudiant>
+</ArrayOfEtudiant>

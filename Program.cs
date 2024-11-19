@@ -66,6 +66,8 @@ namespace Tp3Me
             List<Etudiant> xmlDeserializedList = DeserializeXml(xmlFilePath);
             Console.WriteLine("\nListe d'étudiants chargée depuis le fichier XML:");
             DisplayList(xmlDeserializedList);
+
+            Console.ReadLine();
         }
         static void SerializeBinary(List<Etudiant> etudiants, string filePath)
         {
